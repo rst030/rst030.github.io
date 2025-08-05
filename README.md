@@ -3,9 +3,9 @@
      <meta http-equiv="content-type" content="text/html; charset=UTF-8">
      <title>
        
-       Ilia Kulikov
+       rst
      </title>
-     <meta name="author" content="Ilia Kulikov">
+     <meta name="author" content="rst">
      
 
      <link rel="stylesheet" href="styles/syntax.css" type="text/css">
